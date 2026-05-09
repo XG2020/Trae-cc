@@ -3,7 +3,6 @@
   "notes": "修复部分bug，优化部分功能",
   "pub_date": "2026-05-08",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
-  "license_mode": "xggm"
-  "blacklist_machine_ids": [
-  ]
+  "license_mode": "xggm",
+  "blacklist_machine_ids": []
 }
