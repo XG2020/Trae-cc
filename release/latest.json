@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "notes": "新增：\n 1.最小化托盘区图标\n 2.关于页常见问题折叠栏\n 优化：\n 1.界面展示并修复已知问题。\n 2.底层流程优化",
-  "pub_date": "2026-05-10",
+  "version": "1.1.2",
+  "notes": "新增：\n 1.最小化托盘区图标\n 2.关于页常见问题折叠栏\n 修复：1.自动开启隐私模式失效问题 2.软件窗口多开问题 \n 优化：\n 1.界面展示优化。\n 2.底层流程优化",
+  "pub_date": "2026-05-12",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
   "license_mode": "xggm",
   "blacklist_machine_ids": []
