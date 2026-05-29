@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
-  "notes": "修复：\n 1.新版本3.5.60无法登陆\n 2.修复已知问题。",
-  "pub_date": "2026-05-24",
+  "version": "1.1.6",
+  "notes": "修复：\n 1.修复已知问题。",
+  "pub_date": "2026-05-29",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
   "license_mode": "xggm",
   "blacklist_machine_ids": []
