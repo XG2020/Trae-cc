@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "notes": "新增：\n 1.无感切换\n 修复：\n 1.修复已知问题。",
-  "pub_date": "2026-06-06",
+  "version": "1.1.8",
+  "notes": "修复：\n 1.修复代理替换导致部分网页无法正常访问的问题。\n 2.修改部分布局、文字描述",
+  "pub_date": "2026-06-09",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
   "license_mode": "xggm",
   "blacklist_machine_ids": []
