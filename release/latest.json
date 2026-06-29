@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "notes": "优化：\n 1.添加账号注册地标签（推荐使用SG账号） \n 2.按钮交互逻辑 \n 修复：\n 1.修复部分已知问题",
-  "pub_date": "2026-06-17",
+  "version": "1.2.2",
+  "notes": "修复：\n 1.修复部分已知问题",
+  "pub_date": "2026-06-28",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
   "api": "https://hhxyyq.cloud",
   "license_mode": "xggm",
