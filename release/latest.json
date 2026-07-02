@@ -1,6 +1,6 @@
 {
   "version": "1.2.3",
-  "notes": "优化：\n 1.优化无感切换逻辑 \n 修复：\n 1.修复已知问题",
+  "notes": "优化：\n 1.优化无感切换逻辑 \n 修复：\n 1.修复严重错误 \n 2.修复部分已知问题",
   "pub_date": "2026-07-02",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
   "api": "https://hhxyyq.cloud",
