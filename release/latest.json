@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "notes": "优化：\n 1.优化保留上下文逻辑 \n 修复：\n 修复对IDE 3.5.71版本上下文保留的支持",
-  "pub_date": "2026-07-04",
+  "version": "1.2.5",
+  "notes": "新增：\n 1.增加可选注册平台 \n 优化：\n 1.优化注册选择逻辑 \n  2.优化切换账号逻辑  \n 修复：\n 1.修复已知问题",
+  "pub_date": "2026-07-09",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
   "api": "https://hhxyyq.cloud",
   "license_mode": "xggm",
