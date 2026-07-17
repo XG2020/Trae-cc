@@ -1,6 +1,6 @@
 {
   "version": "1.2.6",
-  "notes": "新增：\n 1.增加可选注册平台 \n 优化：\n 1.优化注册选择逻辑 \n  2.优化切换账号逻辑  \n 修复：\n 1.修复已知问题",
+  "notes": "新增：\n 1.公告弹窗 \n 优化：\n 1.优化部分逻辑  \n 修复：\n 1.修复已知问题",
   "pub_date": "2026-07-16",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
   "api": "",
