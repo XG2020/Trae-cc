@@ -1,9 +1,11 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "notes": "新增：\n 1.增加可选注册平台 \n 优化：\n 1.优化注册选择逻辑 \n  2.优化切换账号逻辑  \n 修复：\n 1.修复已知问题",
-  "pub_date": "2026-07-09",
+  "pub_date": "2026-07-16",
   "download_url": "https://github.com/XG2020/Trae-cc/releases",
-  "api": "https://hhxyyq.cloud",
+  "api": "",
+  "tup": "",
+  "note": "5paw5Yqg5Z2h5Yy66LSm5Y+377yIU0fvvInmnI3liqHlmajlrZjlnKjkuKXmoLznmoRJUOagoemqjO+8jOWIh+aNoui0puWPt+aXtuW/hemcgOS9v+eUqOS7o+eQhuWIh+aNouiKgueCue+8jOWQpuWImei0puWPt+S8muiiq+W8uuWItui4ouWHulRSQUUgSURF5oiW6ICF5bCB56aB6LSm5Y+377yB77yB77yB",
   "license_mode": "xggm",
   "blacklist_machine_ids": []
 }
